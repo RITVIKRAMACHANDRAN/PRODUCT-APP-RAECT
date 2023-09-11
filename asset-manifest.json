@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RITVIKRAMACHANDRAN/PRODUCT-APP-REACT-EXPAND.git/static/css/main.8566e358.css",
+    "main.js": "/RITVIKRAMACHANDRAN/PRODUCT-APP-REACT-EXPAND.git/static/js/main.c3c64d67.js",
+    "static/js/787.77090cc7.chunk.js": "/RITVIKRAMACHANDRAN/PRODUCT-APP-REACT-EXPAND.git/static/js/787.77090cc7.chunk.js",
+    "index.html": "/RITVIKRAMACHANDRAN/PRODUCT-APP-REACT-EXPAND.git/index.html",
+    "main.8566e358.css.map": "/RITVIKRAMACHANDRAN/PRODUCT-APP-REACT-EXPAND.git/static/css/main.8566e358.css.map",
+    "main.c3c64d67.js.map": "/RITVIKRAMACHANDRAN/PRODUCT-APP-REACT-EXPAND.git/static/js/main.c3c64d67.js.map",
+    "787.77090cc7.chunk.js.map": "/RITVIKRAMACHANDRAN/PRODUCT-APP-REACT-EXPAND.git/static/js/787.77090cc7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8566e358.css",
+    "static/js/main.c3c64d67.js"
+  ]
+}
